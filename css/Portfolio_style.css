@@ -1,0 +1,28 @@
+h1 {
+	color:#fff;
+	font-family:roboto;
+	font-weight:900;
+	text-transform:uppercase;
+}
+.header {
+	box-sizing: border-box;
+	display: table;
+	height: 590px;
+	width: 100%;
+	padding-top: 60px;
+	text-align: center;
+	text-shadow: 0 0 10px #000000;
+	color: #fff;
+	background-image: url("../img/Portland.jpg");
+	background-position: center center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.text-vertical-center {
+		display: table-cell;
+		text-align: center;
+		vertical-align: middle;
+		padding-top: 15px;
+		padding-left: 25px;
+		color: #ffffff;
+}
